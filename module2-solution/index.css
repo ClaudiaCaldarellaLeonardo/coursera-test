@@ -1,13 +1,9 @@
-body{
-	background-color: grey;
-}
-
 .row {
 	width: 100%;
 }
 
 	h1{
-		background-color: blue;
+		text-align: center;
 	}
 
 @media(min-width: 992px){
@@ -24,12 +20,16 @@ body{
 		float: left;
 		width: 50%;
 	}
+	.col-md-1{
+		float: left;
+		width: 100%;
+	}
 	
 }
 
 @media (max-width: 767px) {
 
-	.col-md-1 {
+	.col-sm-1 {
 		float: left;
 		width: 100%;
 	}
