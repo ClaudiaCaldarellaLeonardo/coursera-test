@@ -2,9 +2,10 @@
 	width: 100%;
 }
 
-	h1{
-		text-align: center;
-	}
+h1{
+	text-align: center;
+	background-color: white;
+}
 
 @media(min-width: 992px){
 	.col-lg-3 {
