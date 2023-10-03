@@ -45,7 +45,7 @@ h1{
 
 .container1{
 	position: relative;
-	background-color: pink;
+	background-color: #FFC44F;
 	border: 1px solid black;
 	margin-left: 10px;
 	margin-right: 10px;
@@ -54,7 +54,7 @@ h1{
 }
 .container2{
 	position: relative;
-	background-color: grey;
+	background-color: ##FF8C76;
 	border: 1px solid black;
 	margin-left: 10px;
 	margin-right: 10px;
@@ -63,7 +63,7 @@ h1{
 }
 .container3{
 	position: relative;
-	background-color: blue;
+	background-color: #FF709C;
 	border: 1px solid black;
 	margin-left: 10px;
 	margin-right: 10px;
@@ -75,7 +75,7 @@ h1{
 	top:0px;
 	right:0px;	
 	border: 1px solid black;
-	background-color: green;
+	background-color: #FFF7DF;
 	
 }
 p{
