@@ -34,10 +34,10 @@ h1{
 		float: left;
 		width: 100%;
 	}
-div#container{
+#container{
 	position: relative;
 	background-color: grey;
 }
-h2{
+p{
 	margin-left:350px;
 }
