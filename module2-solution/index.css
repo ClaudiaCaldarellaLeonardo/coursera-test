@@ -1,3 +1,9 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
 .row {
 	width: 100%;
 	background-color: blue;
@@ -43,6 +49,7 @@ h1{
 	border: 1px solid black;
 }
 #tit{
+	margin-top: 0px;
 	margin-left:350px;
 	border: 1px solid black;
 	background-color: grey;
