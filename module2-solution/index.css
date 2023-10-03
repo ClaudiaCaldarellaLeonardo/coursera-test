@@ -4,7 +4,7 @@
 	margin: 0;
 }
 
-.row {
+#row {
 	width: 100%;
 	background-color: blue;
 }
@@ -43,9 +43,19 @@ h1{
 	}
 }
 
-#container{
+#container1{
 	position: relative;
-	background-color: white;
+	background-color: pink;
+	border: 1px solid black;
+}
+#container2{
+	position: relative;
+	background-color: grey;
+	border: 1px solid black;
+}
+#container3{
+	position: relative;
+	background-color: blue;
 	border: 1px solid black;
 }
 #tit{
