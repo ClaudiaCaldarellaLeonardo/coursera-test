@@ -34,7 +34,7 @@ h1{
 		float: left;
 		width: 100%;
 	}
-p{
+div#container{
 	position: relative;
 	background-color: grey;
 }
