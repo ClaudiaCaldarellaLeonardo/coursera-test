@@ -4,7 +4,7 @@
 	margin: 2px;
 }
 
-div#row {
+#row {
 	width: 100%;
 	
 }
@@ -17,7 +17,7 @@ h1{
 @media(min-width: 992px){
 	.col-lg-3 {
 		float: left;
-		width: 32%;
+		width: 33%;
 	}
 
 }
@@ -26,11 +26,11 @@ h1{
 
 	.col-md-2 {
 		float: left;
-		width: 48%;
+		width: 50%;
 	}
 	.col-md-1{
 		float: left;
-		width: 90%;
+		width: 100%;
 	}
 	
 }
@@ -54,7 +54,7 @@ h1{
 }
 .container2{
 	position: relative;
-	background-color: ##FF8C76;
+	background-color: #FF9C70;
 	border: 1px solid black;
 	margin-left: 10px;
 	margin-right: 10px;
