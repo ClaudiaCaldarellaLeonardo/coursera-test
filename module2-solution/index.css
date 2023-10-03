@@ -1,5 +1,6 @@
 .row {
-	width: 90%;
+	width: 100%;
+	background-color: blue;
 }
 
 h1{
@@ -34,10 +35,12 @@ h1{
 		float: left;
 		width: 100%;
 	}
+}
+
 #container{
 	position: relative;
 	background-color: grey;
 }
 #tit{
-	margin-left:350px;
+	margin-left:400px;
 }
