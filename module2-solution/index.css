@@ -17,7 +17,7 @@ h1{
 @media(min-width: 992px){
 	.col-lg-3 {
 		float: left;
-		width: 33.3%;
+		width: 33%;
 	}
 
 }
@@ -71,13 +71,13 @@ h1{
 	margin-bottom: 10px;
 }
 #tit{
-	position: relative;
-	margin-top: 0px;
-	margin-left:350px;
+	position: absolute;
+	top:0px;
+	right:0px;	
 	border: 1px solid black;
 	background-color: green;
-	margin-right: 0px;
+	
 }
 p{
-	top: 50px;
+	margin-top: 40px;
 }
