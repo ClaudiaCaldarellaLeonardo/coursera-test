@@ -7,7 +7,6 @@
 .row {
 	width: 100%;
 	background-color: blue;
-	padding-right: 50px;
 }
 
 h1{
@@ -80,5 +79,5 @@ h1{
 	margin-right: 0px;
 }
 p{
-	margin-top: 10px;
+	top: 50px;
 }
