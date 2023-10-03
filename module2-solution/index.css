@@ -16,7 +16,7 @@ h1{
 @media(min-width: 992px){
 	.col-lg-4 {
 		float: left;
-		width: 33%;
+		width: 32.8%;
 	}
 
 }
@@ -68,7 +68,7 @@ h1{
 	position: absolute;
 	top:0px;
 	right:0px;	
-	border: 1px solid green;
+	border: 1px solid white;
 	background-color: #FFF7DF;
 	
 }
